@@ -15,9 +15,9 @@ let SCKEY = '';
 // =======================================QQ酷推通知设置区域===========================================
 //此处填你申请的SKEY(具体详见文档 https://cp.xuthus.cc/)
 //注：此处设置github action用户填写到Settings-Secrets里面(Name输入QQ_SKEY)
-let QQ_SKEY = '';
+let QQ_SKEY = 'a267a6db474fedc4770e91ec1aea3bd1';
 //此处填写私聊或群组推送，默认私聊(send或group或者wx)
-let QQ_MODE = 'send';
+let QQ_MODE = 'wx';
 
 // =======================================Bark App通知设置区域===========================================
 //此处填你BarkAPP的信息(IP/设备码，例如：https://api.day.app/XXXXXXXX)
